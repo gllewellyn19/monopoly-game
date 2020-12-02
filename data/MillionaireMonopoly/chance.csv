@@ -1,0 +1,7 @@
+﻿text,id,cardtype,money,space,image
+Advance to Go (Collect $200),0,MoveGetMoney,200,0,./././data/ClassicMonopoly/chancecardimages/advancetogo.jpg
+Advance to Illinois Ave—If you pass Go collect $200,1,MoveGetMoney,200,24,./././data/ClassicMonopoly/chancecardimages/bank-pays-you.jpg
+Bank pays you dividend of $50,2,GetMoney,50,0,./././data/ClassicMonopoly/chancecardimages/.building-matures.jpg
+Go Back 3 Spaces,3,Move,0,-3,./././data/ClassicMonopoly/chancecardimages/go-back-three.jpg
+Pay poor tax of $15,4,PayMoney,15,0,./././data/ClassicMonopoly/chancecardimages/illinois-ave.jpg
+Your building and loan matures- Collect $150,5,GetMoney,150,0,./././data/ClassicMonopoly/chancecardimages/poor-tax.jpg

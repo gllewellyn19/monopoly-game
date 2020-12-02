@@ -1,0 +1,41 @@
+text,type,value,neighborhood,house,hotel
+FDOC,Go,200,Corner,0,0
+Lobby Shop,Property,60,Purple,50,50
+Campus Mail,Community Chest,0,Card,0,0
+East Campus Store,Property,60,Purple,50,50
+Bursar,Tax,200,Tax,0,0
+West Campus,Railroad,200,Railroad,0,0
+Few Quad,Property,100,Light Blue,50,50
+Email From President Price,Chance,0,Card,0,0
+Keohane Quad,Property,100,Light Blue,50,50
+Craven Quad,Property,100,Light Blue,50,50
+Office of Student Conduct,Jail,0,Corner,0,0
+Il Forno,Property,140,Pink,100,100
+DukeCard Office,Utilities,150,Utilities,0,0
+Sazon,Property,140,Pink,100,100
+JB's,Property,160,Pink,100,100
+East Campus,Railroad,200,Railroad,0,0
+Wilson Dorm,Property,180,Orange,100,100
+Campus Mail,Community Chest,0,Card,0,0
+Trinity Dorm,Property,180,Orange,100,100
+Gilbert-Addoms,Property,200,Orange,100,100
+Spring Break,Free Parking,0,Corner,0,0
+Duke Gardens,Property,220,Red,150,150
+Email From President Price,Chance,0,Card,0,0
+Lemur Center,Property,220,Red,150,150
+Nasher Museum,Property,240,Red,150,150
+Central Campus,Railroad,200,Railroad,0,0
+Hudson Hall,Property,260,Yellow,150,150
+Allen Building,Property,260,Yellow,150,150
+Duke Student Health,Utilities,150,Utilities,0,0
+Classroom Building,Property,280,Yellow,150,150
+Go to the Office of Student Conduct,Go To Jail,0,Corner,0,0
+Marketplace,Property,300,Green,200,200
+Bryan Center,Property,300,Green,200,200
+Campus Mail,Community Chest,0,Card,0,0
+K-ville,Property,320,Green,200,200
+Marine Lab Campus,Railroad,200,Railroad,0,0
+Email From President Price,Chance,0,Card,0,0
+Duke Chapel,Property,350,Blue,200,200
+Meal Plan A,Tax,100,Tax,0,0
+Cameron Indoor Stadium,Property,400,Blue,200,200

@@ -1,0 +1,16 @@
+﻿text,id,cardtype,money,space,image
+Advance to Go,12,MoveGetMoney,200,0,./././data/ClassicMonopoly/communitycardimages/advancetogo.jpeg
+Bank error in your favor,13,GetMoney,200,0,./././data/ClassicMonopoly/communitycardimages/bank-in-favor.png
+Doctor's Fee,14,PayMoney,50,0,./././data/ClassicMonopoly/communitycardimages/doctors-fee.jpg
+Get Out of Jail Free,15,OutJail,0,0,./././data/ClassicMonopoly/communitycardimages/get-out-of-jail.jpg
+Go to Jail-Go directly to Jail-Do not pass Go-Do not collect $200,16,InJail,0,0,./././data/ClassicMonopoly/communitycardimages/go-to-jail.jpg
+Holiday Fund matures- Receive $100,17,GetMoney,100,0,./././data/ClassicMonopoly/communitycardimages/holiday-fund-matures.jpeg
+Income Tax refund- Collect $20,18,GetMoney,20,0,./././data/ClassicMonopoly/communitycardimages/income-tax-refund.jpg
+It is your birthday- Collect $10 from every player,19,GetMoneyFromPlayers,10,0,./././data/ClassicMonopoly/communitycardimages/birthday.jpg
+Life insurance matures- Collect $100,20,GetMoney,100,0,./././data/ClassicMonopoly/communitycardimages/life-insurance.jpg
+From sale of stock you get $45,21,GetMoney,45,0,./././data/ClassicMonopoly/communitycardimages/sale-stock.jpeg
+Hospital fees. Pay $100,22,PayMoney,100,0,./././data/ClassicMonopoly/communitycardimages/hospital-fee.jpg
+School fees. Pay $50,23,PayMoney,50,0,./././data/ClassicMonopoly/communitycardimages/school-fees.jpg
+Receive $25 consultancy fee,24,GetMoney,25,0,./././data/ClassicMonopoly/communitycardimages/consultancy-fee.jpg
+You have won second price in a beauty contest- Collect $10,25,GetMoney,10,0,./././data/ClassicMonopoly/communitycardimages/beauty-contest.jpg
+You inherited $100,26,GetMoney,100,0,./././data/ClassicMonopoly/communitycardimages/inheritance.jpg

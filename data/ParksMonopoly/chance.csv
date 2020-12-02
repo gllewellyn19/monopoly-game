@@ -1,0 +1,17 @@
+text,id,cardtype,money,space,image
+Advance to Yellowstone,0,MoveGetMoney,200,0,./././data/ParkMonopoly/chancecardimages/yellowstone.jpeg
+Advance to Go (Collect $200),1,MoveGetMoney,200,0,./././data/ParkMonopoly/chancecardimages/advancetogo.jpg
+Pay $100 for camping equipment,2,PayMoney,100,0,./././data/ParkMonopoly/chancecardimages/pay-equipment.jpg
+Pay park entry fee $10,3,PayMoney,10,0,./././data/ParkMonopoly/chancecardimages/park-entry-fee.jpg
+River rafting cancelled collect refund $50,4,GetMoney,50,0,./././data/ParkMonopoly/chancecardimages/rafting-refund.jpg
+Go Back 3 Spaces,5,Move,0,-3,./././data/ParksMonopoly/chancecardimages/go-back-three.jpg
+Take a trip to Acadia,6,MoveGetMoney,200,21,./././data/ParksMonopoly/chancecardimages/acadia.jpg
+A bear broke into the campsite- pay $200 for new supplies,7,PayMoney,200,0,./././data/ParksMonopoly/chancecardimages/bear-damage.jpg
+You stumbled upon a dinosaur fossil- Collect $1000,8,GetMoney,1000,0,./././data/ParksMonopoly/chancecardimages/fossil-sighting.jpg
+A storm flooded your tent- pay $100 for repairs,9,PayMoney,100,0,./././data/ParksMonopoly/chancecardimages/flood.jpg
+You hitchhiked to the next stop- Collect $50,10,GetMoney,50,0,./././data/ParksMonopoly/chancecardimages/hitchhiking.jpg
+Weekend trip to the Grand Canyon!,11,MoveGetMoney,200,26,./././data/ParksMonopoly/chancecardimages/grand-canyon.jpg
+Free ride to your next destination- keep until needed,12,OutJail,0,0,./././data/ParksMonopoly/chancecardimages/free-ride.jpg
+A mountain lion ravaged your food supply- Move back 5,13,Move,0,5,./././data/ParksMonopoly/chancecardimages/food-stolen.jpg
+Your car broke down- pay $300,14,PayMoney,300,0,./././data/ParksMonopoly/chancecardimages/car-broke.jpg
+Sunny days ahead- Advance to Bicycling,15,MoveGetMoney,200,25,./././data/ParksMonopoly/chancecardimages/bicycling.jpg

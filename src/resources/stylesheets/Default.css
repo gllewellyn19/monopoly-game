@@ -1,0 +1,43 @@
+.root {
+  -fx-font-size: 12pt;
+  -fx-font-family: "Segoe UI Semibold";
+  -fx-base: "#CC0066";
+  -fx-background: #C6F5F5;
+}
+
+.button {
+  -fx-font-size: 10pt;
+  -fx-text-fill: #000000;
+  border-radius: 8px;
+  float: center;
+  -fx-background-color: #CC0066;
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  -fx-background-color: #CC0080;
+}
+
+.button:disabled {
+  -fx-font-size: 10pt;
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.ChoiceBox {
+  -fx-font-size: 9pt;
+  -fx-text-fill: #000000;
+  -fx-background-color: #767D7D;
+}
+
+.label {
+  -fx-font-size: 11pt;
+  -fx-font-family: "Segoe UI Semibold";
+  -fx-text-fill: #100792;
+  -fx-opacity: 0.6;
+}
+
+.text-field {
+  -fx-font-size: 11pt;
+  -fx-font-family: "Segoe UI Semibold";
+}

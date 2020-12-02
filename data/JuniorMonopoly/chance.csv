@@ -1,0 +1,25 @@
+text,id,cardtype,money,space,image
+Free Ticket Booth,0,GetProperty,6,7,./././data/JuniorMonopoly/chancecardimages/ticket-booth-light-blue.png
+Free Ticket Booth,1,GetProperty,6,7,./././data/JuniorMonopoly/chancecardimages/ticket-booth-light-blue.png
+Go to the Loop the Loop,2,MoveGetMoney,2,30,./././data/JuniorMonopoly/chancecardimages/loop-the-loop-chance.png
+Free Ticket Booth,3,GetProperty,27,28,./././data/JuniorMonopoly/chancecardimages/ticket-booth-green.png
+Go to the Bumper Cars,4,MoveGetMoney,2,27,./././data/JuniorMonopoly/chancecardimages/bumper-cars-chance.png
+Free Ticket Booth,5,GetProperty,30,31,./././data/JuniorMonopoly/chancecardimages/ticket-booth-blue.png
+Free Ticket Booth,6,GetProperty,30,31,./././data/JuniorMonopoly/chancecardimages/ticket-booth-blue.png
+Go to the Water Slide,7,MoveGetMoney,2,14,./././data/JuniorMonopoly/chancecardimages/water-slide-chance.png
+Free Ticket Booth,8,GetProperty,14,15,./././data/JuniorMonopoly/chancecardimages/ticket-booth-orange.png
+Free Ticket Booth,9,GetProperty,14,15,./././data/JuniorMonopoly/chancecardimages/ticket-booth-orange.png
+Go to the Video Arcade,10,MoveGetMoney,2,18,./././data/JuniorMonopoly/chancecardimages/video-arcade-chance.png
+Free Ticket Booth,11,GetProperty,18,19,./././data/JuniorMonopoly/chancecardimages/ticket-booth-red.png
+Go to the Merry Go Round,12,MoveGetMoney,2,11,./././data/JuniorMonopoly/chancecardimages/merry-go-round-chance.png
+Free Ticket Booth,13,GetProperty,11,12,./././data/JuniorMonopoly/chancecardimages/ticket-booth-pink.png
+Pay $3 to take the tramway to the restrooms,14,MoveGetMoney,-3,10,./././data/JuniorMonopoly/chancecardimages/restrooms-chance.png
+Free Ticket Booth,15,GetProperty,22,23,./././data/JuniorMonopoly/chancecardimages/ticket-booth-yellow.png
+Free Ticket Booth,16,GetProperty,22,23,./././data/JuniorMonopoly/chancecardimages/ticket-booth-yellow.png
+Go to the Water Show and pay $2,17,MoveGetMoney,-2,24,./././data/JuniorMonopoly/chancecardimages/water-show-chance.png
+Go to the Fireworks and pay $2,18,MoveGetMoney,-2,8,./././data/JuniorMonopoly/chancecardimages/fireworks-chance.png
+Go to Go,19,MoveGetMoney,2,0,./././data/JuniorMonopoly/chancecardimages/go-chance.png
+Take a Ride on the Green Line Railroad,20,MoveGetMoney,2,13,./././data/JuniorMonopoly/chancecardimages/green-railroad-chance.png
+Take a Ride on the Blue Line Railroad,21,MoveGetMoney,2,21,./././data/JuniorMonopoly/chancecardimages/blue-railroad-chance.png
+Take a Ride on the Red Line Railroad,22,MoveGetMoney,2,29,./././data/JuniorMonopoly/chancecardimages/red-railroad-chance.png
+Free Ticket Booth,23,GetProperty,2,3,./././data/JuniorMonopoly/chancecardimages/ticket-booth-purple.png

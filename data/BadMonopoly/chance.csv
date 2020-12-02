@@ -1,0 +1,13 @@
+﻿text,id,cardtype,money,space,image
+Advance to Go (Collect $200),0,MoveGetMoney,200,0,./././data/ClassicMonopoly/chancecardimages/advancetogo.jpg
+Advance to Illinois Ave—If you pass Go collect $200,1,MoveGetMoney,200,24,./././data/ClassicMonopoly/chancecardimages/bank-pays-you.jpg
+Bank pays you dividend of $50,2,GetMoney,50,0,./././data/ClassicMonopoly/chancecardimages/.building-matures.jpg
+Go Back 3 Spaces,3,Move,0,-3,./././data/ClassicMonopoly/chancecardimages/go-back-three.jpg
+Pay poor tax of $15,4,PayMoney,15,0,./././data/ClassicMonopoly/chancecardimages/illinois-ave.jpg
+Your building and loan matures- Collect $150,5,GetMoney,150,0,./././data/ClassicMonopoly/chancecardimages/poor-tax.jpg
+Advance to St. Charles Place- If you pass Go collect $200,6,MoveGetMoney,200,11,./././data/ClassicMonopoly/chancecardimages/charles-place.jpg
+Go to Jail. Go directly to Jail. Do not collect $200,7,InJail,0,10,./././data/ClassicMonopoly/chancecardimages/go-to-jail.jpg
+Take a trip to Reading Railroad,8,MoveGetMoney,200,5,./././data/ClassicMonopoly/chancecardimages/reading-railroad.jpg
+Advance to Boardwalk,9,MoveGetMoney,0,39,./././data/ClassicMonopoly/chancecardimages/advance-boardwalk.jpg
+You have been elected chairman- Pay each player $50,10,GetMoneyFromPlayers,50,0,./././data/ClassicMonopoly/chancecardimages/chairman.jpg
+Make general repairs on all your property: Pay $25 for each house,11,PayPerProperty,25,0,./././data/ClassicMonopoly/chancecardimages/pay-per-property.jpeg

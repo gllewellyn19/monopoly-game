@@ -1,0 +1,33 @@
+text,type,value,neighborhood,house,hotel
+Go,Go,2,Corner,2,2
+Chance,Chance,0,Card,0,0
+Balloon Stand,Property,1,Purple,1,1
+Cotton Candy,Property,1,Purple,1,1
+Chance,Chance,0,Card,0,0
+Yellow Line Railroad,Railroad,0,Railroad,0,0
+Puppet Show,Property,2,Light Blue,2,2
+Magic Show,Property,2,Light Blue,2,2
+Pay $2 to see the fireworks,Tax,2,Tax,2,2
+Chance,Chance,0,Card,0,0
+Restrooms,Jail,0,Corner,0,0
+Merry-Go-Round,Property,2,Pink,2,2
+Paddle Boats,Property,2,Pink,2,2
+Green Line Railroad,Railroad,0,Railroad,0,0
+Water Slide,Property,3,Orange,3,3
+Miniature Golf,Property,3,Orange,3,3
+Uncle Pennybag's Loose Change,Free Parking,0,Corner,0,0
+Chance,Chance,0,Chance,0,0
+Video Arcade,Property,3,Red,3,3
+Haunted House,Property,3,Red,3,3
+Chance,Chance,0,Chance,0,0
+Blue Line Railroad,Railroad,0,Railroad,0,0
+Helicopter Ride,Property,4,Yellow,4,4
+Pony Ride,Property,4,Yellow,4,4
+Pay $2 to see the water show,Tax,2,Tax,2,2
+Chance,Chance,0,Card,0,0
+Go to restrooms,Go To Jail,0,Corner,0,0
+Bumper Cars,Property,4,Green,4,4
+Ferris Wheel,Property,4,Green,4,4
+Red Line Railroad,Railroad,0,Railroad,0,0
+Loop the Loop,Property,5,Blue,5,5
+Roller Coaster,Property,5,Blue,5,5

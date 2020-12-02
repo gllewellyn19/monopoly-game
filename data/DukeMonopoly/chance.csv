@@ -1,0 +1,22 @@
+text,id,cardtype,money,space,image
+First registration. Advance to FDOC.,0,MoveGetMoney,200,0,./././data/DukeMonopoly/chancecardimages/first-registration.png
+Flunch a professor. Advance to Il Forno.,1,MoveGetMoney,200,0,./././data/DukeMonopoly/chancecardimages/flunch.png
+Advance to Duke Chapel,2,MoveGetMoney,200,37,./././data/DukeMonopoly/chancecardimages/chapel.png
+Excuse for Office of Student Conduct. This card may be kept until needed or sold.,6,OutJail,0,0,./././data/DukeMonopoly/chancecardimages/osc-excuse.png
+Slept through class. Move back three spaces.,3,Move,0,-3,./././data/DukeMonopoly/chancecardimages/slept-through-class.png
+Take a class on East. Advance to East Campus.,4,MoveGetMoney,200,15,./././data/DukeMonopoly/chancecardimages/class-on-east.png
+Buy textbook. Pay $15.,5,PayMoney,15,0,./././data/DukeMonopoly/chancecardimages/buy-textbook.png
+Reimbursed for Club Sports trip. Collect $50.,6,GetMoney,50,0,./././data/DukeMonopoly/chancecardimages/buy-textbook.png
+Hired as a TA. Collect $150.,7,GetMoney,150,0,./././data/DukeMonopoly/chancecardimages/hired-as-ta.png
+Referred to Student Conduct. Do not pass FDOC and do not collect $200.,8,InJail,0,10,./././data/DukeMonopoly/chancecardimages/referred-to-osc.png
+Visiting a friend. Advance to Few Quad.,9,MoveGetMoney,200,6,./././data/DukeMonopoly/chancecardimages/visiting-a-friend.png
+Birthday dinner. Collect $50 from each player.,10,GetMoneyFromPlayers,50,0,./././data/DukeMonopoly/chancecardimages/birthday-dinner.png
+Make a walk-up line group. Advance to Cameron Indoor Stadium.,11,MoveGetMoney,200,39,./././data/DukeMonopoly/chancecardimages/walk-up-line.png
+Advance token to the nearest Campus and pay owner twice the rental to which they are otherwise entitled. You may buy the Campus if it is unowned.,12,MoveGetMoney,200,5,./././data/DukeMonopoly/chancecardimages/nearest-campus.png
+Advance token to the nearest Campus and pay owner twice the rental to which they are otherwise entitled. You may buy the Campus if it is unowned.,13,MoveGetMoney,200,15,./././data/DukeMonopoly/chancecardimages/nearest-campus.png
+Run out of food points (Advance to Meal Plan A),14,MoveGetMoney,200,38,./././data/DukeMonopoly/chancecardimages/food-points.png
+Hired for a summer internship. Collect $150.,15,GetMoney,150,0,./././data/DukeMonopoly/chancecardimages/hired-for-internship.png
+Catch the freshman plague. Advance to Student Health. You may buy it if it is unowned.,16,MoveGetMoney,200,28,./././data/DukeMonopoly/chancecardimages/freshman-plague.png
+Repair your GPA. Pay $10 for each property you own.,17,PayPerProperty,10,0,./././data/DukeMonopoly/chancecardimages/repair-gpa.png
+Excuse for Office of Student Conduct. This card may be kept until needed or sold.,18,OutJail,0,0,./././data/DukeMonopoly/chancecardimages/osc-excuse.png
+Duke raises tuition. Pay $100.,19,PayMoney,100,0,./././data/DukeMonopoly/chancecardimages/raise-tuition.png

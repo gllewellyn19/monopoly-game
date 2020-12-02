@@ -1,0 +1,11 @@
+﻿text,cardtype,action
+Advance to Go,GET_MONEY,200
+Bank error in your favor,GET_MONEY,200
+Doctor's Fee,PAY_MONEY,50
+Get Out of Jail Free,LEAVE_JAIL,LeaveJail
+Go to Jail-Go directly to Jail-Do not pass Go-Do not collect $200,JAIL,InJail
+Grand Opera Night- Collect $50 from every player for opening night seats,MONEY_FROM_PLAYERS,50
+Holiday Fund matures- Receive $100,GET_MONEY,100
+Income Tax refund- Collect $20,GET_MONEY,20
+It is your birthday- Cllect $10,GET_MONEY,10
+Life insurance matures- Collect $100,GET_MONEY,100

@@ -1,0 +1,16 @@
+text,id,cardtype,money,space,image
+Excuse for Office of Student Conduct. This card may be kept until needed or sold.,20,OutJail,0,0,./././data/DukeMonopoly/communitycardimages/osc-excuse.png
+Referred to Student Conduct. Do not pass FDOC and do not collect $200.,21,InJail,200,0,./././data/DukeMonopoly/communitycardimages/referred-to-osc.png
+Bursar error in your favor. Collect $200.,22,GetMoney,200,0,./././data/DukeMonopoly/communitycardimages/bursar-error.png
+Tutor raises their price. Pay $50.,23,PayMoney,50,0,./././data/DukeMonopoly/communitycardimages/tutor-raises-price.png
+Create an instagram to sell your clothes. You make $50.,24,GetMoney,50,0,./././data/DukeMonopoly/communitycardimages/instagram-clothes.png
+Duke Symphony Orchestra performance. Collect $50 from every player for opening night seats.,25,GetMoneyFromPlayers,50,0,./././data/DukeMonopoly/communitycardimages/symphony.png
+Grandma sends birthday money. Collect $100.,26,GetMoney,100,0,./././data/DukeMonopoly/communitycardimages/grandma-birthday-money.png
+It's your birthday. Collect $10 from every player.,27,GetMoneyFromPlayers,10,0,./././data/DukeMonopoly/communitycardimages/birthday-money.png
+Club fees. Pay $50.,28,PayMoney,50,0,./././data/DukeMonopoly/communitycardimages/club-fees.png
+Buy a flight home for Thanksgiving. Pay $50.,29,PayMoney,50,0,./././data/DukeMonopoly/communitycardimages/buy-flight-home.png
+Receive $25 bursar reimbursement.,30,GetMoney,25,0,./././data/DukeMonopoly/communitycardimages/bursar-reimbursement.png
+Advance to FDOC. Collect $200.,31,MoveGetMoney,200,0,./././data/DukeMonopoly/communitycardimages/advance-to-fdoc.png
+Your backpack breaks. Pay $115 for every dorm you own.,32,PayMoney,115,0,./././data/DukeMonopoly/communitycardimages/backpack-breaks.png
+You win K-Ville Street. Collect $10.,33,GetMoney,10,0,./././data/DukeMonopoly/communitycardimages/kville-street.png
+A fellow tent member bribes you into taking their shifts. Collect $100.,34,GetMoney,100,0,./././data/DukeMonopoly/communitycardimages/tent-bribe.png

@@ -1,0 +1,7 @@
+﻿text,cardtype,action
+Advance to Go (Collect $200),MOVE_GET_MONEY,200
+"Advance to Illinois Ave—If you pass Go, collect $200",MOVE_GET_MONEY,200
+Bank pays you dividend of $50,GET_MONEY,50
+Go Back 3 Spaces,MOVE,-3
+Pay poor tax of $15,PAY_MONEY,15
+Your building and loan matures- Collect $150,GET_MONEY,150

@@ -1,0 +1,41 @@
+text,type,value,neighborhood,house,hotel
+GO,Go,200,Corner,0,0
+Mediterranean Avenue,Property,60,Purple,50,50
+Community Chest,Community Chest,0,Card,0,0
+Baltic Avenue,Property,60,Purple,50,50
+Income Tax,Tax,200,Tax,0,0
+Reading Railroad,Railroad,200,Railroad,0,0
+Oriental Avenue,Property,100,Light Blue,50,50
+Chance,Chance,0,Card,0,0
+Vermont Avenue,Property,100,Light Blue,50,50
+Connecticut Avenue,Property,100,Light Blue,50,50
+In Jail,Jail,0,Corner,0,0
+St Charles Place,Property,140,Pink,100,100
+Electric Company,Utilities,150,Utilities,0,0
+States Avenue,Property,140,Pink,100,100
+Virginia Avenue,Property,160,Pink,100,100
+Pennsylvania Railroad,Railroad,200,Railroad,0,0
+St James Place,Property,180,Orange,100,100
+Community Chest,Community Chest,0,Card,0,0
+Tennessee Avenue,Property,180,Orange,100,100
+New York Avenue,Property,200,Orange,100,100
+Free Parking,Free Parking,0,Corner,0,0
+Kentucky Avenue,Property,220,Red,150,150
+Chance,Chance,0,Card,0,0
+Indiana Avenue,Property,220,Red,150,150
+Illinois Avenue,Property,240,Red,150,150
+B&O Railroad,Railroad,200,Railroad,0,0
+Atlantic Avenue,Property,260,Yellow,150,150
+Ventnor Avenue,Property,260,Yellow,150,150
+Water Works,Utilities,150,Utilities,0,0
+Marvin Gardens,Property,280,Yellow,150,150
+Go to Jail,Go To Jail,0,Corner,0,0
+Pacific Avenue,Property,300,Green,200,200
+North Carolina Avenue,Property,300,Green,200,200
+Community Chest,Community Chest,0,Card,0,0
+Pennsylvania Avenue,Property,320,Green,200,200
+Short Line,Railroad,200,Railroad,0,0
+Chance,Chance,0,Card,0,0
+Park Place,Property,350,Blue,200,200
+Luxury Tax,Tax,100,Tax,0,0
+Boardwalk,Property,400,Blue,200,200

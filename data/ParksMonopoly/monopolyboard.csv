@@ -1,0 +1,41 @@
+text,type,value,neighborhood,house,hotel
+GO,Go,200,Corner,0,0
+Cuyahoga Valley,Property,60,Purple,50,50
+Battlefield Parks,Community Chest,0,Card,0,0
+Joshua Tree,Property,60,Purple,50,50
+Campfire Violation,Tax,200,Tax,0,0
+Nature Hiking,Railroad,200,Railroad,0,0
+Death Valley,Property,100,Light Blue,50,50
+Historic Sites,Chance,0,Card,0,0
+Arches,Property,100,Light Blue,50,50
+Redwood,Property,100,Light Blue,50,50
+In Jail,Jail,0,Corner,0,0
+Big Bend,Property,140,Pink,100,100
+Volcano,Utilities,150,Utilities,0,0
+Olympic,Property,140,Pink,100,100
+Great Smoky Mountains,Property,160,Pink,100,100
+Rock Climbing,Railroad,200,Railroad,0,0
+Everglades,Property,180,Orange,100,100
+Battlefield Parks,Community Chest,0,Card,0,0
+Carlsbad Caverns,Property,180,Orange,100,100
+Grand Teton,Property,200,Orange,100,100
+Free Parking,Free Parking,0,Corner,0,0
+Acadia,Property,220,Red,150,150
+Historical Sites,Chance,0,Card,0,0
+Bryce Canyon,Property,220,Red,150,150
+Zion,Property,240,Red,150,150
+Bicycling,Railroad,200,Railroad,0,0
+Grand Canyon,Property,260,Yellow,150,150
+Denali,Property,260,Yellow,150,150
+Geyser,Utilities,150,Utilities,0,0
+Rocky Mountain,Property,280,Yellow,150,150
+Go to Jail,Go To Jail,0,Corner,0,0
+Glacier,Property,300,Green,200,200
+Mount Rainier,Property,300,Green,200,200
+Battlefield Parks,Community Chest,0,Card,0,0
+Sequoia,Property,320,Green,200,200
+River Rafting,Railroad,200,Railroad,0,0
+Historic Sites,Chance,0,Card,0,0
+Yosemite,Property,350,Blue,200,200
+Purchase Annual Pass,Tax,100,Tax,0,0
+Yellowstone,Property,400,Blue,200,200

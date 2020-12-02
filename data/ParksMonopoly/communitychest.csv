@@ -1,0 +1,6 @@
+text,id,cardtype,money,space,image
+Advance to Go,15,MoveGetMoney,200,0,./././data/ParksMonopoly/communitycardimages/advancetogo.jpeg
+Go to Jail-Go directly to Jail-Do not pass Go-Do not collect $200,16,InJail,0,0,./././data/ParksMonopoly/communitycardimages/go-to-jail.jpg
+Get Out of Jail Free,17,OutJail,0,0,./././data/ParksMonopoly/communitycardimages/get-out-of-jail.jpg
+Bank error in your favor,18,GetMoney,200,0,./././data/ParksMonopoly/communitycardimages/bank-in-favor.png
+Bike broken pay $50 fee,19,PayMoney,50,0,./././data/ParksMonopoly/communitycardimages/bike-fee.jpg

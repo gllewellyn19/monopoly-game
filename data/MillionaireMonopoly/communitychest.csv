@@ -1,0 +1,10 @@
+﻿text,id,cardtype,money,space,image
+Advance to Go,6,MoveGetMoney,200,0,./././data/ClassicMonopoly/communitycardimages/advancetogo.jpeg
+Bank error in your favor,7,GetMoney,200,0,./././data/ClassicMonopoly/communitycardimages/bank-in-favor.png
+Doctor's Fee,8,PayMoney,50,0,./././data/ClassicMonopoly/communitycardimages/doctors-fee.jpg
+Get Out of Jail Free,9,OutJail,0,0,./././data/ClassicMonopoly/communitycardimages/get-out-of-jail.jpg
+Go to Jail-Go directly to Jail-Do not pass Go-Do not collect $200,10,InJail,0,0,./././data/ClassicMonopoly/communitycardimages/go-to-jail.jpg
+Holiday Fund matures- Receive $100,11,GetMoney,100,0,./././data/ClassicMonopoly/communitycardimages/holiday-fund-matures.jpeg
+Income Tax refund- Collect $20,12,GetMoney,20,0,./././data/ClassicMonopoly/communitycardimages/income-tax-refund.jpg
+It is your birthday- Collect $10,13,GetMoney,10,0,./././data/ClassicMonopoly/communitycardimages/birthday.jpg
+Life insurance matures- Collect $100,14,GetMoney,100,0,./././data/ClassicMonopoly/communitycardimages/life-insurance.jpg

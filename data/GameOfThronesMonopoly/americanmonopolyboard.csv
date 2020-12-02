@@ -1,0 +1,41 @@
+text,type,value,neighborhood,house,hotel
+King's Landing,Go,200,Corner,0,0
+Storm's End,Property,60,Purple,50,50
+Raven,Community Chest,0,Card,0,0
+Dragonstone,Property,60,Purple,50,50
+Master of Coin,Tax,200,Tax,0,0
+The Wall,Railroad,200,Railroad,0,0
+Eastwatch by the Sea,Property,100,Light Blue,50,50
+Rider,Chance,0,Card,0,0
+Kingswood,Property,100,Light Blue,50,50
+Cave of the Three-Eyed Raven,Property,100,Light Blue,50,50
+Dungeons,Jail,0,Corner,0,0
+Free Cities of Bravos,Property,140,Pink,100,100
+Blacksmith,Utilities,150,Utilities,0,0
+Iron Islands,Property,140,Pink,100,100
+Qarth,Property,160,Pink,100,100
+Vale of Arryn,Railroad,200,Railroad,0,0
+Temple of Dosh Khaleen,Property,180,Orange,100,100
+Raven,Community Chest,0,Card,0,0
+Widow's Watch,Property,180,Orange,100,100
+Fist of the First Men,Property,200,Orange,100,100
+Iron Throne,Free Parking,0,Corner,0,0
+Crow's Nest,Property,220,Red,150,150
+Rider,Chance,0,Card,0,0
+Dorne,Property,220,Red,150,150
+Whispering Woods,Property,240,Red,150,150
+Winterfell,Railroad,200,Railroad,0,0
+Fleabottom,Property,260,Yellow,150,150
+Bay of Dragons,Property,260,Yellow,150,150
+Bakery,Utilities,150,Utilities,0,0
+Castle Black,Property,280,Yellow,150,150
+Go to the Dungeons,Go To Jail,0,Corner,0,0
+Valyria,Property,300,Green,200,200
+Blackwater Bay,Property,300,Green,200,200
+Raven,Community Chest,0,Card,0,0
+Mole's Town,Property,320,Green,200,200
+Riverrun,Railroad,200,Railroad,0,0
+Rider,Chance,0,Card,0,0
+Craster's Keep,Property,350,Blue,200,200
+Royal Taxes,Tax,100,Tax,0,0
+Casterly Rock,Property,400,Blue,200,200
