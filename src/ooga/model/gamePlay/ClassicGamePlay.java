@@ -297,11 +297,12 @@ public class ClassicGamePlay extends GamePlay implements TurnableModel {
       getAProperty(turnData.getPossibleProperties());
     }
     if (turnData.checkIfBidPurchased()) {
-      if (board.getBoardSpaceAtLocation(turnData.getCurrentLocation()) instanceof OwnableSpace space) {
+      if (board.getBoardSpaceAtLocation(turnData.getCurrentLocation()) instanceof OwnableSpace) {
         int bidPurchaser = turnData.getBidPurchaser();
         Player bidder = players.getPlayers().get(bidPurchaser);
         bidder.addToPlayerProperties((OwnableSpace)board.getBoardSpaceAtLocation(newLocation));
         bank.decreaseBalance(bidPurchaser,turnData.getBidAmount());
+        OwnableSpace space = (OwnableSpace) board.getBoardSpaceAtLocation(turnData.getCurrentLocation());
         space.setOwner(bidder);
       }
     }

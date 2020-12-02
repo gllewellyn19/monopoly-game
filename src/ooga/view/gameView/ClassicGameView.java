@@ -51,8 +51,7 @@ public class ClassicGameView extends GameView {
   private final Text topText;
   private Properties gameValueResources;
   private final DataReader dataReader;
-  private ResourceBundle languageResources = ResourceBundle.getBundle(
-      Controller.DEFAULT_RESOURCES_PACKAGE + LANGUAGE_FOLDER + this.language);
+  private ResourceBundle languageResources;
   private ModelDiceRollable modelDiceRollable;
   private int startingFunds;
   private String boardData;
@@ -75,6 +74,12 @@ public class ClassicGameView extends GameView {
     topText = new Text();
     topText.setFont(new Font(STARTING_FONT_SIZE));
     prompter = new Prompter(this);
+    try {
+      languageResources = ResourceBundle.getBundle(
+          Controller.DEFAULT_RESOURCES_PACKAGE + LANGUAGE_FOLDER + this.language);
+    } catch (MissingResourceException e) {
+      errorPrinting.printErrorMessageAlert("missingResourceException");
+    }
   }
 
   /**
