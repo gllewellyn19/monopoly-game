@@ -7,6 +7,10 @@ Original Team: Anna Diemel, Cameron Jarnot, Delaney Demark, Grace Llewellyn, and
 
 Refactored alone by: Grace Llewellyn
 
+![Screenshot of Splash Screen](splashScreen.png)
+
+![Screenshot of Game Screen](gameScreen.png)
+
 ### Running the Program
 ####  Instructions
 NOTE: This readme is a work in progress along with this project
